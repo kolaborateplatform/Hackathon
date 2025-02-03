@@ -1,12 +1,20 @@
 # Submissions Directory
 
-This directory contains all hackathon project submissions, organized by date. Each hackathon event has its own directory named in the format `YYYY-MM-DD`.
+This directory contains all hackathon project submissions, organized by challenge topic. Each challenge has its own dedicated directory that contains all submissions for that specific problem space.
 
 ## Structure
 
 ```
 submissions/
-├── YYYY-MM-DD/
+├── content-calendar/
+│   ├── team-1-project-name/
+│   ├── team-2-project-name/
+│   └── ...
+├── customer-support/
+│   ├── team-1-project-name/
+│   ├── team-2-project-name/
+│   └── ...
+├── project-management/
 │   ├── team-1-project-name/
 │   ├── team-2-project-name/
 │   └── ...
@@ -15,9 +23,9 @@ submissions/
 
 ## Submission Process
 
-1. Create a new branch for your submission
-2. Find or create the appropriate date folder for your hackathon
-3. Create your project folder following the naming convention
+1. Create a new branch for your submission using the format: `submission/your-name-challenge-name`
+2. Navigate to the appropriate challenge folder (content-calendar, customer-support, or project-management)
+3. Create your project folder following the naming convention: `team-name-project-name`
 4. Submit your project through a Pull Request
 
 Please ensure you follow all submission guidelines outlined in the main README. 
