@@ -1,0 +1,3 @@
+npx create-next-app@latest social-media-calendar --typescript --tailwind --app
+cd social-media-calendar 
+npm install @clerk/nextjs convex @tailwindcss/forms date-fns 
