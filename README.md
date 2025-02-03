@@ -49,7 +49,7 @@ Our repository is organized to help you quickly find everything you need:
 ### Step 1: Get Started
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourorg/kolaborate-hackathon.git
+   git clone https://github.com/kolaborateplatform/Hackathon.git
    ```
 
 2. **Create a New Branch:**
@@ -118,7 +118,7 @@ For those new to Git:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourorg/kolaborate-hackathon.git
+   git clone https://github.com/kolaborateplatform/Hackathon.git
    ```
 
 2. **Create a Branch:**
@@ -146,7 +146,7 @@ This repository is licensed under the MIT License. See LICENSE for details.
 
 If you're new to GitHub or have any questions:
 - **Open an Issue:** Post your questions or issues in the Issues section.
-- **Contact Us:** Email us at organizers@kolaboratehackathon.com or join our Slack/Discord (links in resources/).
+- **Contact Us:** Email us at dev@kolaborate.co or join our Slack/Discord (links in resources/).
 
 ## Acknowledgements
 
